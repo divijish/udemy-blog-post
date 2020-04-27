@@ -35,6 +35,9 @@ margin-bottom: 10px;
 
 .author-text{
     font-size: 20px;
+    float: left;
+    margin-top : 37px;
+    margin-left: 20px;
 }
 .container {
     width: 1140px;
@@ -60,4 +63,20 @@ margin-bottom: 10px;
     padding-top: 20px;
     border-top: 1px solid #9d9999;
 
+}
+
+.other {
+    margin-bottom: 40px;
+}
+
+.author-box img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+}
+
+.blog-post img{
+    height: 150px;
+    width: auto;
 }
