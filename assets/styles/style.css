@@ -25,11 +25,11 @@ body{
 .header img{
     
     margin-left: 9.5%;
+    height:80px;
 }
 
 h1, h2{
     color:#02611fb2;
-    height:90px;
 }
 
 h1{
